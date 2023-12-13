@@ -1,8 +1,8 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Random Password Generator
 
-Currently, two official plugins are available:
+I've created random password generator with using useState, useEffect, useRef. I've followup the optimization and the most common function covered with useCallback functions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Link: https://random-password-generator-smoky.vercel.app/
+
+<img src='https://img001.prntscr.com/file/img001/231h55UMSMq0HrH7DPGJgg.png'>
